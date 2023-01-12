@@ -76,4 +76,4 @@ If we add a `Displace` with 0.01 as Displace Weight, and with a slowly animated,
 - Explaination [What is video feedback synthesis](https://andreijaycreativecoding.com/getting_started-with-video-feedback)
 
 
-<!-- https://alltd.org/feedback-top-in-touchdesigner/ --># TD_Feedback_love_EN
+<!-- https://alltd.org/feedback-top-in-touchdesigner/ -->
