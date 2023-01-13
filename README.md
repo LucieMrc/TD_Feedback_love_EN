@@ -10,7 +10,6 @@ Le texture top vient dans le feedback uniquement pour qu'ils aient la même rés
 
 Le level fait en sorte que ça disparaisse slowly : l'opacité de la première frame post feedback est de 0.9 par exemple, puis la frame d'en dessous est 0.9 * 0.9 = 0.81, puis la frame encore en dessous est à 0.9 * 0.9 * 0.9 = 0.72, et ainsi de suite.
 
-
 -->
 
 Imagine that we are stacking tracing paper, with each a black dot with a different position.
