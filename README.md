@@ -1,6 +1,6 @@
-# 🚧🚧🚧 TD_feedback_love 🚧🚧🚧
+# Touchdesigner Feedback love
 
-**Ou comment utiliser le TOP `Feedback` sur TouchDesigner pour faire des dingz.**
+**On how to use the `Feedback` TOP in Touchdesigner to do nice stuffs.**
 
 ## Feedback love ????
 
